@@ -3,7 +3,7 @@ import { resolve } from 'path'
 export default {
   publicRuntimeConfig: {
     spaceUid: 'https://app.newt.so/ikechanblog',
-    appUid: 'https://app.newt.so/ikechanblog/app/ikechan_blog',
+    appUid: 'https://app.newt.so/ikechanblog/app/ikechanblog',
     token: 'QNLedBABAY5ILOjkDZCjby3dYVWEDoBQOrPLsN6j1No',
     apiType: 'cdn',
     articleModelUid: 'article',
@@ -16,7 +16,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Blog',
+    title: 'IkechanBlog',
     htmlAttrs: {
       lang: 'en',
     },
