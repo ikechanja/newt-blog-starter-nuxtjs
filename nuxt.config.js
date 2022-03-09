@@ -2,9 +2,9 @@ import { resolve } from 'path'
 
 export default {
   publicRuntimeConfig: {
-    spaceUid: 'スペースUID',
-    appUid: 'AppUID',
-    token: 'CDN APIトークン',
+    spaceUid: 'https://app.newt.so/ikechanblog',
+    appUid: 'https://app.newt.so/ikechanblog/app/ikechan_blog',
+    token: 'QNLedBABAY5ILOjkDZCjby3dYVWEDoBQOrPLsN6j1No',
     apiType: 'cdn',
     articleModelUid: 'article',
     categoryModelUid: 'category',
