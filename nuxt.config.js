@@ -18,7 +18,7 @@ export default {
   head: {
     title: 'IkechanBlog',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'ja',
     },
     meta: [
       { charset: 'utf-8' },
